@@ -1,0 +1,12 @@
+REPL
+    Read Eval Print Loop(for playing around)
+CLI
+    (command line interface)
+     - Running our app code in Node( for everything  else)
+
+Node has some built in modules
+- OS
+- Path
+- FS
+- HTTP
+
